@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "description": "start",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakefaen/Demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "darko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dakefaen/Demo/issues"
+  },
+  "homepage": "https://github.com/dakefaen/Demo#readme"
+}
